@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <!-- logo from https://simpleicons.org/ -->
 
-[![](https://img.shields.io/badge/-Java-000?style=flat&logo=python)](https://github.com/StevenGerry)
-[![](https://img.shields.io/badge/-Python-000?style=flat&logo=go)](https://github.com/StevenGerry)
-[![](https://img.shields.io/badge/-C-000?style=flat&logo=ruby-on-rails)](https://github.com/StevenGerry)
-[![](https://img.shields.io/badge/-C#-000?style=flat&logo=docker)](https://github.com/StevenGerry)
+[![](https://img.shields.io/badge/-Java-000?style=flat&logo=java)](https://github.com/StevenGerry)
+[![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/StevenGerry)
+[![](https://img.shields.io/badge/-C-000?style=flat&logo=c)](https://github.com/StevenGerry)
 [![](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)](https://github.com/StevenGerry)
+[![](https://img.shields.io/badge/-Javascript-000?style=flat&logo=javascript)](https://github.com/StevenGerry)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/StevenGerry)
 
 
